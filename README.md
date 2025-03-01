@@ -12,7 +12,7 @@
 
 ## Структура проекта
 ```
-Youtube_trends/
+Game_Of_Thrones_analysis/
 ├──game_of_thrones_prediction.ipynb   # Файл с анализом данных и обучением моделей
 ├──data/                              # Папка с данными для обучения и теста, а также с предиктами модели
 ├──requirements.txt                   # Зависимости проекта
